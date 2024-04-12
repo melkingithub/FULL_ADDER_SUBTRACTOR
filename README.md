@@ -48,7 +48,9 @@ Borrow out = A'Bin + A'B + BBin
 
 
 **Procedure**
+
 **Full Adder:**
+
 1.Open Quartus II and create a new project.
 2.Use schematic design entry to draw the full adder circuit. 
 3.The circuit consists of XOR, AND, and OR gates. 
@@ -56,6 +58,7 @@ Borrow out = A'Bin + A'B + BBin
 5.Implement the design on the target device and program it.
 
 **Full Subtractor:** 
+
 1.Follow the same steps as for the full adder. 
 2.Draw the full subtractor circuit using schematic design. 
 3.The circuit includes XOR, AND, OR gates to perform subtraction. 
@@ -95,12 +98,17 @@ RegisterNumber:212223220056
 
 
 **RTL Schematic**
+
 ![image](https://github.com/melkingithub/FULL_ADDER_SUBTRACTOR/assets/151421291/2db178e8-ee4f-486b-8067-2e12cc21168e)
 
 **Output Timing Waveform**
+
 **FULL ADDER**
+
 ![image](https://github.com/melkingithub/FULL_ADDER_SUBTRACTOR/assets/151421291/7a1d104c-5349-4a6e-a67d-8c0fd7e53c8a)
+
 **FULL SUBTRACTOR**
+
 ![image](https://github.com/melkingithub/FULL_ADDER_SUBTRACTOR/assets/151421291/a5adfd1c-5a57-46d2-8039-335fe2766098)
 
 **Result:**
